@@ -15,6 +15,7 @@ body{
     font-family: consolas;
     padding-top: 30px;
     padding-left: 850px;
+    display:inline;
 }
 a{
     position: relative;
