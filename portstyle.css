@@ -2,6 +2,7 @@ body{
     font-family: sans-serif;
     background: black;
     color: #fff;
+    display:100%;
 }
 .name{
         color: aliceblue;
